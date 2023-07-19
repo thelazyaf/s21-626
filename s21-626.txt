@@ -1,0 +1,8 @@
+git --version(to check git version)
+mkdir name(to make directory)
+cd(to change directory)
+git init( to create git repository)
+dir( to check)
+git status(it shows)
+git add .(to add context from working dir to staging area)
+git commit -m"msg"
