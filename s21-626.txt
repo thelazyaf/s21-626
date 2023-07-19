@@ -6,3 +6,4 @@ dir( to check)
 git status(it shows)
 git add .(to add context from working dir to staging area)
 git commit -m"msg"
+git checkout -b name(create new branch in git)
